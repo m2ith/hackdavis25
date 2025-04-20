@@ -140,6 +140,13 @@ section {
     margin: 0 auto;
 }
 
+#ref {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
 /***** ACTION BUTTONS *****/
 
 .action-btn {
@@ -169,6 +176,8 @@ section {
 #wrap2 {
     margin-top: 30em;
     background-image: url(images/money.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
     width: 100vw;
     height: 100vh;
 }
@@ -256,6 +265,7 @@ section {
     background-size: auto;
     width: 100vw;
     height: 100vh;
+    margin-bottom: none;
 }
 
 #actions {
