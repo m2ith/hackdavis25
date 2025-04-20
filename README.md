@@ -1,4 +1,4 @@
-# HackDavis 2025 #
+# HackDavis 2025
 
 ## Introduction
 Text
