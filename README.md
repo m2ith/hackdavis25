@@ -16,7 +16,7 @@ Guides the viewer through an information-focused visual experience about food in
 Melody researched and wrote content. Meredith coded the website into reality with HTML, CSS, and JS. Lauren and Alexis crafted the visual identity of the project.
 
 ## Challenges We Ran Into
-Technical challenges in the code? Deciding what information to include. While there was a lot of information that could have been included, there was a strong need to edit things down enough so people would understand what they were reading while also wanting to continue reading. We needed a lot of visuals and assets.
+We ran into technical challenges in the code as well as deciding what information to include. While there was a lot of information that could have been included, there was a strong need to edit things down enough so people would understand what they were reading while also wanting to continue reading. We needed a lot of visuals and assets.
 
 ## Accomplishments That We're Proud Of
 Overall, we're all very proud of what we've contributed and successfully collaborated to make this learning experience. We're proud of the visuals that we created to represent our research. Also, it was a great process to bring everyone's skills and use of programs together to make a cohesive project.
@@ -26,3 +26,8 @@ We quickly learned about the importance of research and how it acts as guidance 
 
 ## View Our DevPost Page
 [Link](https://devpost.com/software/savoir-m87a1v)
+
+## Team
+[Alexis Paneda](https://www.linkedin.com/in/alexis-paneda/)
+[Lauren Miller](https://www.linkedin.com/in/lauren-miller-b80164305/)
+[Melody Saberan](https://www.linkedin.com/in/melody-saberan-685b8926a/)
