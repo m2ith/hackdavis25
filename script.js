@@ -24,4 +24,11 @@
         speed: 50,
         waitUntilVisible: true,
     }).go();
+
+    // Actions
+    new TypeIt("#action", {
+        strings: "Take Action!",
+        speed: 50,
+        waitUntilVisible: true,
+    }).go();
 })();

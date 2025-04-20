@@ -65,7 +65,7 @@ strong {
     font-weight: 700;
 }
 
-#section1, #section2, #section6 {
+#section1, #section2, #section6, #action {
     color: #23662C;
 }
 
@@ -135,6 +135,23 @@ section {
     padding-top: 30px;
 }
 
+#logo {
+    display: block;
+    margin: 0 auto;
+}
+
+.action-btn {
+    /* width: 475px;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #202320; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+
 /***** BACKGROUND IMAGES *****/
 
 #wrap1 {
@@ -145,10 +162,32 @@ section {
 
 #gif {
     text-align: center;
-    line-height: 200px;
 }
 
-#wrap2 {
+/* #wrap2 {
+    margin-top: 30em;
+    background-image: linear-gradient(to right, rgba(255,255,255, 0.7) 0 100%), url(images/money.gif);
+    width: 100vw;
+    height: 100vh;
+} */
+
+#money {
+    text-align: center;
+}
+
+#wrap3 {
+    background-image: url(images/programs.png);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    margin-bottom: 30em;
+}
+
+#programs {
+    text-align: center;
+}
+
+#wrap4 {
     background-image: url(images/supermarket.png);
     background-size: cover;
     width: 100vw;
@@ -157,10 +196,21 @@ section {
 
 #food {
     text-align: center;
-    line-height: 200px;
 }
 
-#wrap3 {
+/* #wrap5 {
+    background-image: url(images/matter.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 100vw;
+    height: 90vh;
+} */
+
+#matter {
+    text-align: center;
+}
+
+#wrap6 {
     background-image: url(images/health.png);
     background-repeat: no-repeat;
     background-size: auto;
@@ -170,7 +220,18 @@ section {
 
 #health {
     text-align: center;
-    line-height: 200px;
+}
+
+#wrap7 {
+    background-image: url(images/minority.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 100vw;
+    height: 100vh;
+}
+
+#minority {
+    text-align: center;
 }
 
 /***** IMAGE SCROLL *****/
