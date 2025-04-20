@@ -28,6 +28,6 @@ We quickly learned about the importance of research and how it acts as guidance 
 [Link](https://devpost.com/software/savoir-m87a1v)
 
 ## Team
-- [Alexis Paneda](https://www.linkedin.com/in/alexis-paneda/)
-- [Lauren Miller](https://www.linkedin.com/in/lauren-miller-b80164305/)
-- [Melody Saberan](https://www.linkedin.com/in/melody-saberan-685b8926a/)
+[Alexis Paneda](https://www.linkedin.com/in/alexis-paneda/)\
+[Lauren Miller](https://www.linkedin.com/in/lauren-miller-b80164305/)\
+[Melody Saberan](https://www.linkedin.com/in/melody-saberan-685b8926a/)
