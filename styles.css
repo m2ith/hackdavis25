@@ -24,7 +24,7 @@ img {
 body {
     font-family: "Instrument Sans", sans-serif;
     font-weight: 400;
-    color: #5D4037;
+    color: #202320;
 }
 
 h1 {
@@ -35,7 +35,15 @@ h1 {
 }
 
 #title {
+    font-family: "Instrument Sans", sans-serif;
     font-weight: 400;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#title strong {
+    padding-left: 5.5px;
+    padding-right: 5.5px;
 }
 
 h2 {
@@ -57,6 +65,19 @@ strong {
     font-weight: 700;
 }
 
+#section1, #section2, #section6 {
+    color: #23662C;
+}
+
+.underline {
+    text-decoration: underline 0.15em rgba(0, 0, 0, 0);
+    transition: text-decoration-color 300ms;
+}
+
+.underline:hover {
+    text-decoration-color: #53CA5C;
+}
+
 /***** ELEMENTS *****/
 
 body {
@@ -64,11 +85,11 @@ body {
 }
 
 h1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    min-height: 100vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
     padding: 20px;
 }
 
