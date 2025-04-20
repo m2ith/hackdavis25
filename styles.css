@@ -78,6 +78,24 @@ strong {
     text-decoration-color: #53CA5C;
 }
 
+/***** COLORS *****/
+
+.blue {
+    color: #3598F5;
+}
+
+.yellow {
+    color: #F5B135;
+}
+
+.light-green {
+    color: #53CA5C;
+}
+
+.red {
+    color: #DC2716;
+}
+
 /***** ELEMENTS *****/
 
 body {
@@ -105,6 +123,7 @@ a {
 
 p {
     margin: 0;
+    padding: 20px;
 }
 
 section {
@@ -112,17 +131,46 @@ section {
     text-align: center;
 }
 
-/***** GIF BACKGROUND *****/
+#fruit {
+    padding-top: 30px;
+}
 
-.wrap {
+/***** BACKGROUND IMAGES *****/
+
+#wrap1 {
     background-image: linear-gradient(to right, rgba(255,255,255, 0.7) 0 100%), url(images/map.gif);
     width: 100vw;
     height: 100vh;
 }
 
-.gif {
-    text-align:center;
-    line-height:200px;
+#gif {
+    text-align: center;
+    line-height: 200px;
+}
+
+#wrap2 {
+    background-image: url(images/supermarket.png);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+#food {
+    text-align: center;
+    line-height: 200px;
+}
+
+#wrap3 {
+    background-image: url(images/health.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 100vw;
+    height: 100vh;
+}
+
+#health {
+    text-align: center;
+    line-height: 200px;
 }
 
 /***** IMAGE SCROLL *****/
@@ -215,11 +263,11 @@ section {
     overflow: hidden;
     display: block;
     padding: 1vh;
-    background: #9d9d9d;
+    background: #DC2716;
     box-shadow: 0 10px 50px #43434382;
 }
 
-img {
+.grey {
     max-width: 45vh;
     max-height: 50vh;
     transition: .5s;
