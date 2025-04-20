@@ -227,6 +227,7 @@ section {
     background-size: auto;
     width: 100vw;
     height: 100vh;
+    margin-bottom: 15em;
 }
 
 #health {
@@ -243,6 +244,10 @@ section {
 
 #minority {
     text-align: center;
+}
+
+#minority-text {
+    padding-top: 12em;
 }
 
 #wrap8 {
