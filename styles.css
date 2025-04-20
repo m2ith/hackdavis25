@@ -140,6 +140,8 @@ section {
     margin: 0 auto;
 }
 
+/***** ACTION BUTTONS *****/
+
 .action-btn {
     /* width: 475px;
     height: 100px;
@@ -164,12 +166,12 @@ section {
     text-align: center;
 }
 
-/* #wrap2 {
+#wrap2 {
     margin-top: 30em;
-    background-image: linear-gradient(to right, rgba(255,255,255, 0.7) 0 100%), url(images/money.gif);
+    background-image: url(images/money.gif);
     width: 100vw;
     height: 100vh;
-} */
+}
 
 #money {
     text-align: center;
@@ -231,6 +233,32 @@ section {
 }
 
 #minority {
+    text-align: center;
+}
+
+#wrap8 {
+    background-image: url(images/about.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 100vw;
+    height: 100vh;
+
+    margin: 0 auto;
+}
+
+#about {
+    text-align: center;
+}
+
+#wrap9 {
+    background-image: url(images/action.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 100vw;
+    height: 100vh;
+}
+
+#actions {
     text-align: center;
 }
 
