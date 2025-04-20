@@ -23,6 +23,8 @@ img {
 
 body {
     font-family: "Instrument Sans", sans-serif;
+    font-weight: 400;
+    color: #5D4037;
 }
 
 h1 {
@@ -32,30 +34,33 @@ h1 {
     line-height: 1em;
 }
 
+#title {
+    font-weight: 400;
+}
+
 h2 {
     font-family: "Instrument Sans", sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 2em;
     line-height: 1em;
+    font-style: italic;
 }
 
 p {
     font-family: "Instrument Sans", sans-serif;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 1.2em;
-    line-height: 1em;
+    line-height: 1.3em;
 }
 
 strong {
-    color: #d3212a;
+    font-weight: 700;
 }
 
 /***** ELEMENTS *****/
 
 body {
-    font-weight: 500;
-    background: #e8e8e8;
-    color: #5D4037;
+    background: #F6ECDB;
 }
 
 h1 {
@@ -69,7 +74,7 @@ h1 {
 
 h2 {
     text-align: center;
-    padding-bottom: 0.5em;
+    padding-bottom: 2.5em;
 }
 
 a {
